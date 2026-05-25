@@ -6,6 +6,10 @@ The Blinkit Dashboard is an interactive Power BI project developed to analyze Bl
 
 This project provides a complete overview of sales analysis using dynamic charts, KPIs, and filters for better business understanding and performance tracking.
 
+## 📷 Dashboard Preview
+
+![Blinkit Dashboard](dashboard.png)
+
 📊 Dashboard Insights
 
 🔹 Sales by Item Type
