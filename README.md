@@ -7,6 +7,7 @@ The Blinkit Dashboard is an interactive Power BI project developed to analyze Bl
 This project provides a complete overview of sales analysis using dynamic charts, KPIs, and filters for better business understanding and performance tracking.
 
 📊 Dashboard Insights
+
 🔹 Sales by Item Type
 
 The dashboard analyzes sales across different product categories such as:
@@ -42,6 +43,7 @@ High
 Medium-sized outlets show the highest sales contribution compared to other outlet sizes.
 
 🎯 Key Features
+
 Interactive Power BI Dashboard
 Dynamic Charts & Visualizations
 Sales Trend Analysis
@@ -49,25 +51,32 @@ Product Category Analysis
 Outlet Performance Tracking
 KPI Monitoring
 Filter and Slicer Support
+
 🛠️ Technologies Used
+
 Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
 Data Modeling
 Data Visualization Techniques
+
 📈 Key Performance Indicators (KPIs)
+
 Total Sales
 Average Sales
 Number of Items Sold
 Outlet-wise Sales
 Product Category Performance
+
 🚀 Project Workflow
+
 Data Collection
 Data Cleaning & Transformation
 Data Modeling
 Creating Relationships
 Building Visualizations
 Dashboard Design and Analysis
+
 💡 Conclusion
 
 This Power BI dashboard helps in understanding retail sales performance, customer purchasing behavior, and outlet efficiency. It enables stakeholders to identify profitable product categories and improve business strategies using data visualization and analytics.
