@@ -1,4 +1,5 @@
 Blinkit Dashboard - Power BI Project
+
 📌 Project Overview
 
 The Blinkit Dashboard is an interactive Power BI project developed to analyze Blinkit's sales performance, outlet distribution, customer preferences, and product category trends. The dashboard transforms raw retail data into meaningful visual insights that help businesses make data-driven decisions.
